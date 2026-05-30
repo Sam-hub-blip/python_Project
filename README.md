@@ -100,7 +100,7 @@ No third-party packages are required.
 | Full Name | File Managed | Primary Contribution & Module Logic | GitHub Profile |
 | :--- | :--- | :--- | :--- |
 | **Zongo Tinwindé Samuel** | `main.py`, `config.py` | Core Orchestrator, System Loop, and Global Application Constants | [GitHub Profile](https://github.com/Sam-hub-blip) |
-| **Zongo Osias** | `models.py` | OOP Architecture, Base Entity Templates, and Inheritance Hierarchies | [GitHub Profile](https://github.com/ozias6378-coder) |
+| **Zongo Ozias** | `models.py` | OOP Architecture, Base Entity Templates, and Inheritance Hierarchies | [GitHub Profile](https://github.com/ozias6378-coder) |
 | **Zongo Aurelie** | `utils.py` | File I/O Persistence, System Event Logging, and Document Generation | [GitHub Profile](https://github.com/zongoaurelie) |
 | **Zongo Aude Ariane** | `admin.py` | Administrative Space Control, Security Access Gate, and HR/Accounting | [GitHub Profile](https://github.com/aude-code) |
 | **Zongo Floriane** | `doctor.py` | General Clinical Medicine Wing, Patient Checkups, and Triage Logic | [GitHub Profile](https://github.com/zongofloriane706-max) |
